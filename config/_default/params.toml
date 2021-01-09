@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "NLP research lab. We do research in natural language processing, machine learning, deep learning and conversation systems. Head of the lab is Jekaterina Novikova."
 
 ############################
 ## Site Features
