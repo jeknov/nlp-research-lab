@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Head of the Lab
 ---
 
 Jekaterina holds a PhD from the University of Bath/UK and did her PostDoc at the Heriot-Watt University in Edinburgh/UK. In recent years, Jekaterina was invited to be the keynote speaker at various conferences and workshops across the globe, such as CogX 2017 in London/UK, Re-Work AI Summit 2018 in Toronto/Canada, MLconf 2019 in San Francisco/US, ODSC East 2020 Virtual. Jekaterina's work and outreach activities have been recognized with a nomination of "30 Influential Women Advancing AI in Canada", as well as best research paper nominations at the conferences HAI and SigDIAL.
