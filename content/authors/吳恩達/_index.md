@@ -63,6 +63,7 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-Development and evaluation of natural language interfaces is a key area of Jekaterina's research, with applications ranging from human-robot spoken dialogue systems to machine learning-based diagnostic platforms that detect cognitive and mental diseases from human speech. Jekaterina has authored over 40 peer-reviewed papers in this area, that were published and presented at top-tier conferences, such as EMNLP and ACL.
 
 Jekaterina holds a PhD from the University of Bath/UK and did her PostDoc at the Heriot-Watt University in Edinburgh/UK. In recent years, Jekaterina was invited to be the keynote speaker at various conferences and workshops across the globe, such as CogX 2017 in London/UK, Re-Work AI Summit 2018 in Toronto/Canada, MLconf 2019 in San Francisco/US, ODSC East 2020 Virtual. Jekaterina's work and outreach activities have been recognized with a nomination of "30 Influential Women Advancing AI in Canada", as well as best research paper nominations at the conferences HAI and SigDIAL.
+
+Development and evaluation of natural language interfaces is a key area of Jekaterina's research, with applications ranging from human-robot spoken dialogue systems to machine learning-based diagnostic platforms that detect cognitive and mental diseases from human speech. Jekaterina has authored over 40 peer-reviewed papers in this area, that were published and presented at top-tier conferences, such as EMNLP and ACL.
