@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Jekaterina Novikova
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Head of NLP Research Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: NLP Research Lab
+  url: "https://nlp-research-lab.netlify.app"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing, development and evaluation of natural language interfaces, applied machine learning, conversational systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Evaluation
+- Machine Learning
+- Conversational Systems
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University of Bath, UK
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:novikova.jekaterina@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JNov21602962
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=C75JskwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jeknov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +61,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
+Development and evaluation of natural language interfaces is a key area of Jekaterina's research, with applications ranging from human-robot spoken dialogue systems to machine learning-based diagnostic platforms that detect cognitive and mental diseases from human speech. Jekaterina has authored over 40 peer-reviewed papers in this area, that were published and presented at top-tier conferences, such as EMNLP and ACL.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jekaterina holds a PhD from the University of Bath/UK and did her PostDoc at the Heriot-Watt University in Edinburgh/UK. In recent years, Jekaterina was invited to be the keynote speaker at various conferences and workshops across the globe, such as CogX 2017 in London/UK, Re-Work AI Summit 2018 in Toronto/Canada, MLconf 2019 in San Francisco/US, ODSC East 2020 Virtual. Jekaterina's work and outreach activities have been recognized with a nomination of "30 Influential Women Advancing AI in Canada", as well as best research paper nominations at the conferences HAI and SigDIAL.
