@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD Student
     institution: University of Toronto, Canada
-    year: 2015
+    year: ongoing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
