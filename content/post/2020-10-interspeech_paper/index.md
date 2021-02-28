@@ -1,5 +1,5 @@
 ---
-title: Our papers was accepted to the Interspeech conference
+title: Our paper was accepted to the Interspeech conference
 date: 2020-09-02
 ---
 
