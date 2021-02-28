@@ -6,7 +6,7 @@ title: Tawsif Kamal
 superuser: false
 
 # Role/position
-role: research intern
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
