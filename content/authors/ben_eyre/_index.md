@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include nlp for dementia detection.
 
 interests:
-- NLP+Society
+- NLP for social good
 
 #education:
 #  courses:
