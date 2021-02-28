@@ -13,7 +13,7 @@ publishDate: "2021-02-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Workshop paper;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
@@ -24,7 +24,7 @@ publication_short: Interspeech
 abstract: "Research related to automatically detecting Alzheimer's disease (AD) is important, given the high prevalence of AD and the high cost of traditional methods. Since AD significantly affects the content and acoustics of spontaneous speech, natural language processing and machine learning provide promising techniques for reliably detecting AD. We compare and contrast the performance of two such approaches for AD detection on the recent ADReSS challenge dataset: 1) using domain knowledge-based hand-crafted features that capture linguistic and acoustic phenomena, and 2) fine-tuning Bidirectional Encoder Representations from Transformer (BERT)-based sequence classification models. We also compare multiple feature-based regression models for a neuropsychological score task in the challenge. We observe that fine-tuned BERT models, given the relative importance of linguistics in cognitive impairment detection, outperform feature-based approaches on the AD detection task."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We compare and contrast the performance of two approaches for AD detection on the recent ADReSS challenge dataset. We observe that fine-tuned BERT models outperform feature-based approaches."
 
 tags:
 - Interspeech
