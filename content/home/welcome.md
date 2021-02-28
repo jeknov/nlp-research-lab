@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,9 @@ advanced:
   css_class:
 ---
 
-The NLP Research Lab is a virtual center of excellence for Natural Language Processing research and practice.
+The NLP Research Lab is a virtual-only lab. Our team of researchers is working on the intersection of Natural Language Processing and Machine Learning for interdisciplinary applications, including:
+
+- Dialogue systems and chatbots, 
+- NLP of social media content,
+- ML applications for mental health and cognitive impairment,
+- Interpretability of ML models. 
