@@ -20,7 +20,7 @@ content:
   - Grad Students
   - Administration
   - Visitors
-  - Head of the Lab
+  - Director
   - Alumni
 design:
   show_interests: true
