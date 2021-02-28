@@ -25,9 +25,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
 - icon: medium
   icon_pack: fab
   link: https://tawsifkamal.medium.com/
@@ -55,4 +55,4 @@ user_groups:
 - Researchers
 ---
 
-Tawsif Kamal is a Reinforcement Learning enthusiast looking to leverage technology towards driving social change. He is specifically interested in dialogue system.
+Tawsif Kamal is a Reinforcement Learning enthusiast looking to leverage technology towards driving social change. He is specifically interested in dialogue systems.
