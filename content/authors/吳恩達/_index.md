@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of NLP Research Lab
+role: Director
 
 # Organizations/Affiliations
 organizations:
